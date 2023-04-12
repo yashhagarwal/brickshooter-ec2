@@ -1,0 +1,20 @@
+EMBOSS skin for BrickShooter
+------------------------------
+===[Images]===
+--[Background image
+skin\Nbg.bmp
+--[Bricks set
+skin\EBricks.bmp
+--[Control items
+skin\EItems.bmp
+--[Pictograms
+skin\Epictograms.bmp
+--[Titles
+skin\Ntitles.bmp
+===[Fonts]===
+--[Font
+skin\Nfont.bmp
+
+------------------------------
+ (c) 1999-2000 Sergey A. Stolbov, TERMINAL studio
+------------------------------

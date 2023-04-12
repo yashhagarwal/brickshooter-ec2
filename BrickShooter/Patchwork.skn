@@ -1,0 +1,20 @@
+PATCHWORK skin for BrickShooter
+------------------------------
+===[Images]===
+--[Background image
+skin\Nbg.bmp
+--[Bricks set
+skin\PWbricks.bmp
+--[Control items
+skin\PWitems.bmp
+--[Pictograms
+skin\PWpictograms.bmp
+--[Titles
+skin\PWtitles.bmp
+===[Fonts]===
+--[Font
+skin\PWfont.bmp
+
+------------------------------
+(c) 2001 Dexter [www.nvrsk.ru]
+------------------------------

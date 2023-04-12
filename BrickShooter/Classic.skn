@@ -1,0 +1,20 @@
+CLASSIC skin for BrickShooter
+------------------------------
+===[Images]===
+--[Background image
+skin\Nbg.bmp
+--[Bricks set
+skin\CBricks.bmp
+--[Control items
+skin\CItems.bmp
+--[Pictograms
+skin\Cpictograms.bmp
+--[Titles
+skin\Ctitles.bmp
+===[Fonts]===
+--[Font
+skin\CFont.bmp
+
+------------------------------
+ (c) 1999-2000 Sergey A. Stolbov, TERMINAL studio
+------------------------------

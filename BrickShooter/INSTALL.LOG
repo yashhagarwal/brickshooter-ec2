@@ -1,0 +1,121 @@
+[CopyFiles]
+C:\Users\User\Desktop\BrickShooter\1.wav=
+C:\Users\User\Desktop\BrickShooter\2.wav=
+C:\Users\User\Desktop\BrickShooter\3.wav=
+C:\Users\User\Desktop\BrickShooter\4.wav=
+C:\Users\User\Desktop\BrickShooter\5.wav=
+C:\Users\User\Desktop\BrickShooter\B&W.skn=
+C:\Users\User\Desktop\BrickShooter\bs.url=
+C:\Users\User\Desktop\BrickShooter\BShoot.chm=
+C:\Users\User\Desktop\BrickShooter\BShoot.exe=
+C:\Users\User\Desktop\BrickShooter\BShoot.hig=
+C:\Users\User\Desktop\BrickShooter\Classic.skn=
+C:\Users\User\Desktop\BrickShooter\Dexter.skn=
+C:\Users\User\Desktop\BrickShooter\Emboss.skn=
+C:\Users\User\Desktop\BrickShooter\ga.url=
+C:\Users\User\Desktop\BrickShooter\gamealbum.ico=
+C:\Users\User\Desktop\BrickShooter\hof.bmp=
+C:\Users\User\Desktop\BrickShooter\howreg.rtf=
+C:\Users\User\Desktop\BrickShooter\license.txt=
+C:\Users\User\Desktop\BrickShooter\nag.bmp=
+C:\Users\User\Desktop\BrickShooter\nag_tr.bmp=
+C:\Users\User\Desktop\BrickShooter\nomoves.bmp=
+C:\Users\User\Desktop\BrickShooter\order.url=
+C:\Users\User\Desktop\BrickShooter\Patchwork.skn=
+C:\Users\User\Desktop\BrickShooter\readme.txt=
+C:\Users\User\Desktop\BrickShooter\register.txt=
+C:\Users\User\Desktop\BrickShooter\Scoarching red.skn=
+C:\Users\User\Desktop\BrickShooter\splash.bmp=
+C:\Users\User\Desktop\BrickShooter\theme1.mid=
+C:\Users\User\Desktop\BrickShooter\theme2.mid=
+C:\Users\User\Desktop\BrickShooter\theme3.mid=
+C:\Users\User\Desktop\BrickShooter\theme4.mid=
+C:\Users\User\Desktop\BrickShooter\theme5.mid=
+C:\Users\User\Desktop\BrickShooter\time.bmp=
+C:\Users\User\Desktop\BrickShooter\ts.ico=
+C:\Users\User\Desktop\BrickShooter\ts.url=
+C:\Users\User\Desktop\BrickShooter\clock\10.bmp=
+C:\Users\User\Desktop\BrickShooter\clock\5.bmp=
+C:\Users\User\Desktop\BrickShooter\clock\6.bmp=
+C:\Users\User\Desktop\BrickShooter\clock\7.bmp=
+C:\Users\User\Desktop\BrickShooter\clock\8.bmp=
+C:\Users\User\Desktop\BrickShooter\clock\9.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\BWbricks.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\Cbricks.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\CFont.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\Citems.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\CPictograms.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\CTitles.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\dBricks.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\dFont.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\dItems.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\dPictograms.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\dTitles.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\EBricks.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\EItems.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\EPictograms.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\Nbg.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\NFont.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\Nitems.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\note.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\Npictograms.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\NTitles.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\PWbricks.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\PWfont.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\PWitems.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\PWpictograms.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\PWtitles.bmp=
+C:\Users\User\Desktop\BrickShooter\skin\SRbricks.bmp=
+C:\Users\User\Desktop\BrickShooter\brickshooter.ini=
+
+[CreateDirs]
+C:\Users\User\Desktop\BrickShooter\clock=
+C:\Users\User\Desktop\BrickShooter\skin=
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BrickShooter=
+
+[Display]
+Charset=0
+
+[CreateKeys]
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BrickShooter=
+
+[AddIni]
+C:\Users\User\Desktop\BrickShooter\brickshooter.ini,Skin,SkinFile=C:\Users\User\Desktop\BrickShooter\Scoarching red.skn
+
+[Shortcuts]
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BrickShooter\BrickShooter.lnk=
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BrickShooter\License.lnk=
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BrickShooter\Registration information.lnk=
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BrickShooter\Readme.lnk=
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BrickShooter\TERMINAL Studio.lnk=
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BrickShooter\Game Album.lnk=
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BrickShooter\BrickShooter website.lnk=
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BrickShooter\Order online.lnk=
+C:\Users\User\Desktop\BrickShooter.lnk=
+C:\Users\User\Desktop\Game Album - Game Downloads.lnk=
+
+[Strings]
+1=BrickShooter uninstall
+2=Installation log file was not specified!
+3=Installation log file %s not found!
+4=Are you sure you want to completely remove BrickShooter and all of its components?
+5=BrickShooter uninstall is finished.
+6=Removing files...
+7=Removing registry values...
+8=Removing registry keys...
+9=Removing ini-entries...
+10=Removing shortcuts...
+11=Removing directories...
+12=Unregistering COM servers...
+13=Unregistering fonts...
+14=Checking shared files...
+15=Remove shared file?
+16=The system indicates that the following shared file is no longer used by any programs.  If any programs are still using this file and it is removed, those programs may not function.  Are you sure you want to remove the shared file?||||Leaving this file will not harm your system.  If you are not sure what to do, it is suggested that you choose to not remove this shared component.
+17=File name:
+18=Located in:
+19=Yes
+20=Yes to all
+21=No
+22=No to all
+23=Close
+

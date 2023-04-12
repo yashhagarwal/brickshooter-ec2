@@ -1,0 +1,20 @@
+BLACK & WHITE  skin for BrickShooter
+------------------------------
+===[Images]===
+--[Background image
+skin\Nbg.bmp
+--[Bricks set
+skin\BWBricks.bmp
+--[Control items
+skin\NItems.bmp
+--[Pictograms
+skin\Npictograms.bmp
+--[Titles
+skin\Ntitles.bmp
+===[Fonts]===
+--[Font
+skin\Nfont.bmp
+
+------------------------------
+ (c) 1999-2000 Sergey A. Stolbov, TERMINAL studio
+------------------------------

@@ -1,0 +1,67 @@
+
+                                BrickShooter                  v.3.3 
+                           ============================
+
+                          SOFTWARE LICENSE AGREEMENT
+                          ==============================
+
+   LICENSE:
+
+    * All copyrights to BrickShooter are exclusively owned by the author and
+      developer - Sergey A. Stolbov.
+
+    * BrickShooter is shareware. You may install this program to test and
+      evaluate for 15 days; thereafter you MUST either register this
+      program or delete it from your computer hard drive and other storage
+      devices.
+
+    * You may not alter this software in any way; you may not use or
+      distribute any part of the original package. You are not also
+      allowed to emulate, decompile, disassemble, otherwise reverse
+      engineer any executable part of original package. Any such
+      unauthorized use shall result in immediate and automatic termination
+      of this license and may result in criminal and/or civil prosecution.
+
+    * BRICKSHOOTER IS DISTRIBUTED "AS IS".  NO WARRANTY OF ANY
+      KIND IS EXPRESSED OR IMPLIED.  YOU USE AT YOUR OWN RISK.
+      THE DEVELOPER WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES,
+      LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR
+      MISUSING THIS SOFTWARE.
+
+    * You may make as many copies of the SHAREWARE version of this
+      distribution package as you wish; you may give exact copies
+      of the original SHAREWARE version of this distribution package;
+      distribute the SHAREWARE version of this distribution package
+      in its unmodified form via electronic means. There is no charge
+      for any of the above. No person or company may charge a fee for
+      the distribution of BrickShooter without written permission
+      from all of the copyright holders. If you want to distribute
+      BrickShooter in a retail location, or as part of a hardware or software
+      bundle, or on CD-ROM you must get PRIOR signed written permission
+      from Sergey A. Stolbov. The author reserves his right
+      to withhold permission.
+
+    * You are hereby licensed to make as many copies of the shareware
+      version of this software and documentation as you wish; give
+      exact copies of the original shareware version to anyone; and
+      distribute the shareware version of the software and documentation
+      in its unmodified form via electronic means. There is no charge
+      for any of the above.
+
+    * Installing and using BrickShooter signifies acceptance of these
+      terms and conditions of the license. If you do not agree with
+      the terms of this license you must remove BrickShooter files
+      from your storage devices and cease to use the product.
+
+    * Once registered, the user is granted a non-exclusive license to 
+      use BrickShooter on one computer. The registered version of
+      BrickShooter may not be rented or leased, but may be permanently
+      transferred, if the person receiving it agrees to terms of this license.
+
+    * To obtain exclusive license to use BrickShooter you have to
+      contact with BrickShooter support and get written permission.
+
+    * To know how to register see register.txt.
+
+
+Copyright (C) 1999-2007 Sergey A. Stolbov - All rights reserved

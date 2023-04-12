@@ -1,0 +1,20 @@
+Dexter's skin for BrickShooter
+------------------------------
+===[Images]===
+--[Background image
+skin\nbg.bmp
+--[Bricks set
+skin\dBricks.bmp
+--[Control items
+skin\dItems.bmp
+--[Pictograms
+skin\dpictograms.bmp
+--[Titles
+skin\dtitles.bmp
+===[Fonts]===
+--[Font
+skin\dFont.bmp
+
+------------------------------
+http://www.nvrsk.ru
+------------------------------
